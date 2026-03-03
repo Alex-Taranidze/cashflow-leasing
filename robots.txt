@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin
+Disallow: /api
+Disallow: /*?*
+
+Sitemap: https://cashflow.ru/sitemap.xml
